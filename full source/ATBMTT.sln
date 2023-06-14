@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATBMTT", "ATBMTT.csproj", "{9CF86D91-16C1-4E6F-BB76-8C67C6D498B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF86D91-16C1-4E6F-BB76-8C67C6D498B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF86D91-16C1-4E6F-BB76-8C67C6D498B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF86D91-16C1-4E6F-BB76-8C67C6D498B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF86D91-16C1-4E6F-BB76-8C67C6D498B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C09FC7-0119-49EF-BE67-08DC313B7BDF}
+	EndGlobalSection
+EndGlobal
